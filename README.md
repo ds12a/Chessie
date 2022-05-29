@@ -1,5 +1,5 @@
 # Chessie
-AP CS Final Project (ATYP)
+AP CS Final Project 2021 (ATYP)
 
 Relys on grid.jar (included).
 
